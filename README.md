@@ -1,17 +1,15 @@
-# Hello there I am Viral Bhadeshiya👋
+# Hola a todos! Soy Ferney Gómez👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-## My tech stack
+## Mi stack tecnológico
 
 <p align="left"> 
 
-  <a> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
-  </a> 
+  
   &emsp;
   <a> 
     <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
